@@ -16,6 +16,7 @@
     "express": "^4.17.3",
     "express-rescue": "^1.1.31",
     "helmet": "^5.0.2",
+    "minimist": "^1.2.6",
     "next": "12.1.0",
     "next-auth": "^4.3.1",
     "react": "17.0.2",
