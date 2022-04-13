@@ -9,8 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "axios": "^0.26.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
+    "express-rescue": "^1.1.31",
     "helmet": "^5.0.2",
     "next": "12.1.0",
     "next-auth": "^4.3.1",
@@ -18,6 +22,7 @@
     "react-dom": "17.0.2"
   },
   "devDependencies": {
+    "@types/next-auth": "^3.15.0",
     "eslint": "7",
     "eslint-config-next": "12.0.1",
     "nodemon": "^2.0.15"
